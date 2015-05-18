@@ -10,4 +10,6 @@ By choosing your 1/4 mile time (in Seconds), checking whether your car is on man
 For example, if your car takes 15 seconds per 1/4 mile, uses automatic transmission and weigh 3500lbs, you can input these values and get the prediction result which is around 14.3 miles per gallon
 <br>
 https://huiyuxinyao.shinyapps.io/testshiny/
+<br>
+http://rpubs.com/huiyuxinyao/80453
  
